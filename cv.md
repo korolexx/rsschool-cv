@@ -27,3 +27,9 @@
 ```
 ## work experience
 - self-education [Htmlacademy.ru](https://htmlacademy.ru/)
+
+## education
+- higher education in SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL
+
+## english language
+- Pre-Intermediate
