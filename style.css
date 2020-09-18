@@ -2,10 +2,14 @@
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
+    background-color: #7193B3;
+    padding: 20px;
+
     }
 a {
     text-decoration: none;
 }
-pre {
-    margin-left: 20px;
-}
+pre code {
+    position: relative;
+    left: -120px; // or whatever you want
+  }
